@@ -81,7 +81,7 @@ Have a look at these videos to see what a hackathon feels like:
 
 **Westpac & IBM Payments Hackathon :**
 
-[![Westpack & IBM Payments Hackathon](http://i.imgur.com/z8i9lKr.jpg)](https://vimeo.com/142343186)
+[![Westpack & IBM Payments Hackathon](http://i.imgur.com/z8i9lKr.jpg|width=100)](https://vimeo.com/142343186)
 
 **SwissRe Hackathon NYC :**
 
