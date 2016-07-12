@@ -71,31 +71,33 @@ Looking for some inspiring examples? [Here is a gallery of 20 apps built on Blue
 
 Have a look at these videos to see what a hackathon feels like:
 
-**ABN Amro #HackITon :**
+###ABN Amro #HackITon
 
 [![ABN Amro #HackITon](http://img.youtube.com/vi/hvaezfmzMX8/0.jpg)](http://www.youtube.com/watch?v=hvaezfmzMX8)
 
-**The Nordea Innovation Challenge :**
+<a href="http://www.youtube.com/watch?v=hvaezfmzMX8"><img src="http://img.youtube.com/vi/hvaezfmzMX8/0.jpg" width="600">
+
+###The Nordea Innovation Challenge
 
 [![The Nordea Innovation Challenge](http://img.youtube.com/vi/kfkInW_GWjE/0.jpg)](http://www.youtube.com/watch?v=kfkInW_GWjE)
 
-**Westpac & IBM Payments Hackathon :**
+###Westpac & IBM Payments Hackathon
 
-[![Westpack & IBM Payments Hackathon](http://i.imgur.com/z8i9lKr.jpg|width=100)](https://vimeo.com/142343186)
+<a href="https://vimeo.com/142343186"><img src="http://i.imgur.com/z8i9lKr.jpg" width="600">
 
-**SwissRe Hackathon NYC :**
+###SwissRe Hackathon NYC
 
 [![SwissRe Hackathon NYC](http://img.youtube.com/vi/ssmNXScD8W4/0.jpg)](http://www.youtube.com/watch?v=ssmNXScD8W4)
 
-**SwissRe Hackathon Bangalore :**
+###SwissRe Hackathon Bangalore
 
 [![SwissRe Hackathon Bangalore](http://img.youtube.com/vi/XcvxYHiahaE/0.jpg)](http://www.youtube.com/watch?v=XcvxYHiahaE)
 
-**Desjardins Healthy Living Hackathon :**
+###Desjardins Healthy Living Hackathon
 
 [![Desjardins Healthy Living Hackathon](http://img.youtube.com/vi/-Z0hg7ynHBM/0.jpg)](http://www.youtube.com/watch?v=-Z0hg7ynHBM)
 
-**ANZ Data Science Hackathon :**
+###ANZ Data Science Hackathon
 
 [![ANZ Data Science Hackathon](http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg)](http://www.youtube.com/watch?v=TXxoZSoCTvQ)
 
