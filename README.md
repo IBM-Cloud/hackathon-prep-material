@@ -73,13 +73,11 @@ Have a look at these videos to see what a hackathon feels like:
 
 ###ABN Amro #HackITon
 
-[![ABN Amro #HackITon](http://img.youtube.com/vi/hvaezfmzMX8/0.jpg)](http://www.youtube.com/watch?v=hvaezfmzMX8)
-
 <a href="http://www.youtube.com/watch?v=hvaezfmzMX8"><img src="http://img.youtube.com/vi/hvaezfmzMX8/0.jpg" width="600">
 
 ###The Nordea Innovation Challenge
 
-[![The Nordea Innovation Challenge](http://img.youtube.com/vi/kfkInW_GWjE/0.jpg)](http://www.youtube.com/watch?v=kfkInW_GWjE)
+<a href="http://www.youtube.com/watch?v=kfkInW_GWjE"><img src="http://img.youtube.com/vi/kfkInW_GWjE/0.jpg" width="600">
 
 ###Westpac & IBM Payments Hackathon
 
@@ -87,20 +85,19 @@ Have a look at these videos to see what a hackathon feels like:
 
 ###SwissRe Hackathon NYC
 
-[![SwissRe Hackathon NYC](http://img.youtube.com/vi/ssmNXScD8W4/0.jpg)](http://www.youtube.com/watch?v=ssmNXScD8W4)
+<a href="http://www.youtube.com/watch?v=ssmNXScD8W4"><img src="http://img.youtube.com/vi/ssmNXScD8W4/0.jpg" width="600">
 
 ###SwissRe Hackathon Bangalore
 
-[![SwissRe Hackathon Bangalore](http://img.youtube.com/vi/XcvxYHiahaE/0.jpg)](http://www.youtube.com/watch?v=XcvxYHiahaE)
+<a href="http://www.youtube.com/watch?v=XcvxYHiahaE"><img src="http://img.youtube.com/vi/XcvxYHiahaE/0.jpg" width="600">
 
 ###Desjardins Healthy Living Hackathon
 
-[![Desjardins Healthy Living Hackathon](http://img.youtube.com/vi/-Z0hg7ynHBM/0.jpg)](http://www.youtube.com/watch?v=-Z0hg7ynHBM)
+<a href="http://www.youtube.com/watch?v=-Z0hg7ynHBM"><img src="http://img.youtube.com/vi/-Z0hg7ynHBM/0.jpg" width="600">
 
 ###ANZ Data Science Hackathon
 
-[![ANZ Data Science Hackathon](http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg)](http://www.youtube.com/watch?v=TXxoZSoCTvQ)
-
+<a href="http://www.youtube.com/watch?v=TXxoZSoCTvQ"><img src="http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg" width="600">
 
 ## Contribute
 Know of any other good material? Maybe something that helped you to get ready for a hackathon? Feel free to send us a pull request!
