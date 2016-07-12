@@ -53,7 +53,7 @@ Here is the link to all the Bluemix online classes from IBM (to dive deep, you m
 
 We have an assortment of webinars available in various languages. [Have a look here.][webinars-url]
 
-### Over 400 tutorials
+## Over 400 step-by-step tutorials
 
 And if you're looking for more, [here is a link to over 400 detailed step-by-step coding tutorials][bluemix_tutorials-url] for Bluemix.
 
@@ -104,7 +104,7 @@ Know of any other good material? Maybe something that helped you to get ready fo
 
 ## License
 
-See [License.txt](License.txt) for license information.
+See [License](License) for license information.
 
 <!--Links-->
 [bluemix_signup_url]: https://console.ng.bluemix.net/registration
