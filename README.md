@@ -8,13 +8,13 @@ Make sure to [sign up here for Bluemix][bluemix_signup_url] before the hackathon
 
 ## Learn the Basics
 
-#### Get an overview
+### Get an overview
 
 Start with this **introductory video:**
 
 [![An Overview and Demonstration of Bluemix](http://img.youtube.com/vi/GsGnyZedlFk/0.jpg)](http://www.youtube.com/watch?v=GsGnyZedlFk)
 
-#### Learn how to deploy an app based on Cloud Foundry
+### Learn how to deploy an app based on Cloud Foundry
 
 [Cloud Foundry][cloud_foundry] is an open-source platform-as-a-Service (PaaS) that allows you to concentrate on your code without worrying about the underlying infrastructure (like VMs or containers). That allows you to your apps up and running quickly ... an ideal environment for a hackathon.
 
@@ -59,7 +59,9 @@ And if you're looking for more, [here is a link to over 400 detailed step-by-ste
 
 ## Stuck? Need help?
 
-Head on over to stackoverflow.com and make sure to tag your question with "bluemix". [Here is a direct link.][stackoverflow_url]
+Make sure to [search the Bluemix docs][bluemixdocs_url] first.
+
+Still stuck? Head on over to stackoverflow.com and make sure to tag your question with "bluemix". [Here is a direct link.][stackoverflow_url]
 
 ## Inspiring examples
 
@@ -79,7 +81,7 @@ Have a look at these videos to see what a hackathon feels like:
 
 **Westpac Payments Hackaton :**
 
-<iframe src="https://player.vimeo.com/video/142343186" width="480" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="http://player.vimeo.com/video/142343186" width="480" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 **SwissRe Hackathon NYC :**
 
@@ -129,4 +131,6 @@ See [License](License) for license information.
 
 [bluemix_tutorials-url]: https://ibm.biz/bluemixtutorialsfordevs
 [webinars-url]: https://webinars.mybluemix.net
+
+[bluemixdocs_url]: https://console.ng.bluemix.net/docs
 [stackoverflow_url]: https://stackoverflow.com/questions/tagged/bluemix
