@@ -12,7 +12,7 @@ Make sure to [sign up here for Bluemix][bluemix_signup_url] before the hackathon
 
 Start with this **introductory video:**
 
-[![An Overview and Demonstration of Bluemix](http://img.youtube.com/vi/GsGnyZedlFk/0.jpg)](http://www.youtube.com/watch?v=GsGnyZedlFk)
+<a href="http://www.youtube.com/watch?v=GsGnyZedlFk"><img src="http://img.youtube.com/vi/GsGnyZedlFk/0.jpg" width="600">
 
 ### Learn how to deploy an app based on Cloud Foundry
 
