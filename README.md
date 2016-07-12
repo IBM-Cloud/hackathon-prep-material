@@ -79,9 +79,9 @@ Have a look at these videos to see what a hackathon feels like:
 
 [![The Nordea Innovation Challenge](http://img.youtube.com/vi/kfkInW_GWjE/0.jpg)](http://www.youtube.com/watch?v=kfkInW_GWjE)
 
-**Westpac Payments Hackaton :**
+**Westpac & IBM Payments Hackathon :**
 
-<iframe src="http://player.vimeo.com/video/142343186" width="480" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![Westpack & IBM Payments Hackathon](http://i.imgur.com/z8i9lKr.jpg)](https://vimeo.com/142343186)
 
 **SwissRe Hackathon NYC :**
 
