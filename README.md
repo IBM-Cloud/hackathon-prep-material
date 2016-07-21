@@ -101,6 +101,11 @@ Have a look at these videos to see what a hackathon feels like:
 
 <a href="http://www.youtube.com/watch?v=TXxoZSoCTvQ"><img src="http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg" width="600">
 
+###Multiple Sclerosis Hackathon 2016
+
+<a href="http://www.youtube.com/watch?v=Ff8XYj-yo6o"><img src="http://www.youtube.com/watch?v=Ff8XYj-yo6o/0.jpg" width="600">
+
+
 ## Contribute
 Know of any other good material? Maybe something that helped you to get ready for a hackathon? Feel free to send us a pull request!
 
