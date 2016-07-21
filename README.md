@@ -103,7 +103,7 @@ Have a look at these videos to see what a hackathon feels like:
 
 ###Multiple Sclerosis Hackathon 2016
 
-<a href="http://www.youtube.com/watch?v=Ff8XYj-yo6o"><img src="http://www.youtube.com/watch?v=Ff8XYj-yo6o/0.jpg" width="600">
+<a href="http://www.youtube.com/watch?v=Ff8XYj-yo6o"><img src="http://img.youtube.com/vi/Ff8XYj-yo6o/0.jpg" width="600">
 
 
 ## Contribute
