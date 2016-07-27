@@ -47,7 +47,9 @@ Most hackathon participants want to take our IBM Watson services for a spin. Her
 
 #### Online Courses
 
-Here is the link to all the Bluemix online classes from IBM (to dive deep, you might want to take "Cloud Application Developer Certification Preparation"): [developerWorks Courses][developer_courses]
+Here is the link to all the Bluemix online classes from IBM: [developerWorks Courses][developer_courses]
+
+To really dive deep, you might want to take "Cloud Application Developer Certification Preparation", which should take you two or three days: [Cloud Application Developer Certification Preparation][certification_url]
 
 #### Webinars
 
@@ -73,32 +75,41 @@ And [here are almost 500 apps built on Bluemix from previous hackathons][devpost
 
 Have a look at these videos to see what a hackathon feels like:
 
+####ABN Amro #HackITon
 
 <a href="http://www.youtube.com/watch?v=hvaezfmzMX8"><img src="http://img.youtube.com/vi/hvaezfmzMX8/0.jpg" width="600">
 
+####The Nordea Innovation Challenge
 
 <a href="http://www.youtube.com/watch?v=kfkInW_GWjE"><img src="http://img.youtube.com/vi/kfkInW_GWjE/0.jpg" width="600">
 
+####Westpac & IBM Payments Hackathon
 
 <a href="https://vimeo.com/142343186"><img src="http://i.imgur.com/z8i9lKr.jpg" width="600">
 
+####SwissRe Hackathon NYC
 
 <a href="http://www.youtube.com/watch?v=ssmNXScD8W4"><img src="http://img.youtube.com/vi/ssmNXScD8W4/0.jpg" width="600">
 
+####SwissRe Hackathon Bangalore
 
 <a href="http://www.youtube.com/watch?v=XcvxYHiahaE"><img src="http://img.youtube.com/vi/XcvxYHiahaE/0.jpg" width="600">
 
+####Desjardins Healthy Living Hackathon
 
 <a href="http://www.youtube.com/watch?v=-Z0hg7ynHBM"><img src="http://img.youtube.com/vi/-Z0hg7ynHBM/0.jpg" width="600">
 
+####ANZ Data Science Hackathon
 
 <a href="http://www.youtube.com/watch?v=TXxoZSoCTvQ"><img src="http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg" width="600">
 
+####Multiple Sclerosis Hackathon 2016
 
 <a href="http://www.youtube.com/watch?v=Ff8XYj-yo6o"><img src="http://img.youtube.com/vi/Ff8XYj-yo6o/0.jpg" width="600">
 
 
 ## Contribute
+Do you know of any other good material? Maybe something that helped you to get ready for a Bluemix hackathon? Feel free to send us a pull request!
 
 
 ## License
@@ -133,3 +144,5 @@ See [License](License) for license information.
 
 [bluemixdocs_url]: https://console.ng.bluemix.net/docs
 [stackoverflow_url]: https://stackoverflow.com/questions/tagged/bluemix
+
+[certification_url]: https://developer.ibm.com/courses/all-courses/cloud-app-developer-cert-prep/
