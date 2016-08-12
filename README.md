@@ -16,7 +16,7 @@ Start with this **introductory video:**
 
 ### Learn how to deploy an app based on Cloud Foundry
 
-[Cloud Foundry][cloud_foundry] is an open-source platform-as-a-Service (PaaS) that allows you to concentrate on your code without worrying about the underlying infrastructure (like VMs or containers). That allows you to your apps up and running quickly ... an ideal environment for a hackathon.
+[Cloud Foundry][cloud_foundry] is an open-source platform-as-a-Service (PaaS) that allows you to concentrate on your code without worrying about the underlying infrastructure (like VMs or containers). That allows you to get your apps up and running quickly ... an ideal environment for a hackathon.
 
 Here's a a link to get you started: [Creating Cloud Foundry apps][cf_basics]
 
