@@ -4,7 +4,7 @@ Here is a list of material that we found particularly useful to get hackathon pa
 
 ## Sign up for Bluemix
 
-Make sure to [sign up here for Bluemix][bluemix_signup_url] before the hackathon. It's free.
+Make sure to [sign up here for Bluemix][bluemix_signup_url] *before the hackathon*. It's free.
 
 ## Learn the Basics
 
