@@ -10,7 +10,9 @@ Make sure to [sign up here for Bluemix][bluemix_signup_url] **before the hackath
 
 ### Get an overview
 
-Start with this **introductory video:**
+Start with these **introductory videos:**
+
+<a href="https://www.youtube.com/watch?v=Hcu664HbfS4"><img src="http://img.youtube.com/vi/Hcu664HbfS4/0.jpg" width="600">
 
 <a href="http://www.youtube.com/watch?v=GsGnyZedlFk"><img src="http://img.youtube.com/vi/GsGnyZedlFk/0.jpg" width="600">
 
