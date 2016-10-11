@@ -22,6 +22,8 @@ Start with these **introductory videos:**
 
 Here's a a link to get you started: [Creating Cloud Foundry apps][cf_basics]
 
+Have a look at this IBM Redbook as well, it gives a good overview of how to deploy your first app on Bluemix: [Essentials of Cloud Application Development on IBM Bluemix] [ibm-redbook]
+
 If you prefer a more structured course, here is a link to a 4-hour online class to get you started with Bluemix: [Bluemix Essentials][bluemix-essentials]
 
 ## Drill down
@@ -122,6 +124,7 @@ See [License](License) for license information.
 [bluemix_signup_url]: https://console.ng.bluemix.net/registration
 [cloud_foundry]: https://www.cloudfoundry.org/
 [cf_basics]: https://new-console.ng.bluemix.net/docs/cfapps/index.html
+[ibm-redbook]: http://www.redbooks.ibm.com/abstracts/sg248374.html?Open
 [bluemix-essentials]: https://developer.ibm.com/courses/all-courses/bluemix-essentials
 [opentoolchain_docs]:https://new-console.ng.bluemix.net/docs/toolchains/toolchains_overview.html
 [developer_courses]: https://developer.ibm.com/courses/#courses
