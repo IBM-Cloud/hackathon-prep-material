@@ -49,6 +49,12 @@ Most hackathon participants want to take our IBM Watson services for a spin. Her
 * [Developing a Watson application in Node.js][watson_nodejs]
 * [Developing a Watson application in Java][watson_java]
 
+#### Blockchain technology
+
+Blockchains are all the rage these days and many hackathon apps make use of them. [Here are some quick tutorials to get you started](https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_tutorials.html).
+
+If you want to dive deeper, [here is a link to 3 online courses](https://developer.ibm.com/courses/all-courses/blockchain-for-developers/) 
+
 #### Online Courses
 
 Here is the link to all the Bluemix online classes from IBM: [developerWorks Courses][developer_courses]
@@ -135,8 +141,8 @@ See [License](License) for license information.
 [iotp_boilerplate]: https://new-console.ng.bluemix.net/docs/starters/IoT/iot500.html#iot500
 [IoTP_url]: https://new-console.ng.bluemix.net/docs/services/IoT/index.html
 [recipes_url]: https://developer.ibm.com/recipes/
-[raspberry_url]: https://developer.ibm.com/recipes/?post_type=tutorials&s=raspberry
-[arduino_url]: https://developer.ibm.com/recipes/?post_type=tutorials&s=arduino
+[raspberry_url]: https://developer.ibm.com/recipes/?post_type=tutorials&amp;s=raspberry
+[arduino_url]: https://developer.ibm.com/recipes/?post_type=tutorials&amp;s=arduino
 [sensortag_url]: https://github.com/uwefassnacht/ti-sensor-tag-demo
 
 [watson_nodejs]: http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/gs-full-nodejs.shtml
