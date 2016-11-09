@@ -79,6 +79,8 @@ Still stuck? Head on over to stackoverflow.com and make sure to tag your questio
 
 Looking for some inspiring examples? [Here is a gallery of 20 well documented apps built on Bluemix.][watson_starter-kits] All of them with a cognitive capability and based on the Watson technology. Each has a link to the running app and also links to the source on github.
 
+Head over to https://ibm-bluemix.github.io for more featured samples, most accompanied by an in-depth blog post.
+
 And [here are almost 500 apps built on Bluemix from previous hackathons][devpost_url], many linking to the source code.
 
 ## Impressions from previous hackathons
