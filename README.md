@@ -131,17 +131,17 @@ See [License](License) for license information.
 <!--Links-->
 [bluemix_signup_url]: https://console.ng.bluemix.net/registration
 [cloud_foundry]: https://www.cloudfoundry.org/
-[cf_basics]: https://new-console.ng.bluemix.net/docs/cfapps/index.html
+[cf_basics]: https://console.ng.bluemix.net/docs/cfapps/index.html
 [ibm-redbook]: http://www.redbooks.ibm.com/abstracts/sg248374.html?Open
 [bluemix-essentials]: https://developer.ibm.com/courses/all-courses/bluemix-essentials
-[opentoolchain_docs]:https://new-console.ng.bluemix.net/docs/toolchains/toolchains_overview.html
+[opentoolchain_docs]:https://console.ng.bluemix.net/docs/toolchains/toolchains_overview.html
 [developer_courses]: https://developer.ibm.com/courses/#courses
 
 [watson_starter-kits]:https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/starter-kits.html
 
 [nodered_url]: http://nodered.org/
-[iotp_boilerplate]: https://new-console.ng.bluemix.net/docs/starters/IoT/iot500.html#iot500
-[IoTP_url]: https://new-console.ng.bluemix.net/docs/services/IoT/index.html
+[iotp_boilerplate]: https://console.ng.bluemix.net/catalog/starters/internet-of-things-platform-starter/
+[IoTP_url]: https://console.ng.bluemix.net/docs/services/IoT/index.html
 [recipes_url]: https://developer.ibm.com/recipes/
 [raspberry_url]: https://developer.ibm.com/recipes/?post_type=tutorials&amp;s=raspberry
 [arduino_url]: https://developer.ibm.com/recipes/?post_type=tutorials&amp;s=arduino
