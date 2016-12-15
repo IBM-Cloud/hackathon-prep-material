@@ -53,11 +53,13 @@ Most hackathon participants want to take our IBM Watson services for a spin. Her
 
 Blockchains are all the rage these days and many hackathon apps make use of them. [Here are some quick tutorials to get you started](https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_tutorials.html).
 
-If you want to dive deeper, [here is a link to 3 online courses](https://developer.ibm.com/courses/all-courses/blockchain-for-developers/) 
+If you want to dive deeper, [here is a full collection of developer resources to get started with the IBM Blockchain service](https://developer.ibm.com/blockchain/) 
 
 #### Online Courses
 
 Here is the link to all the Bluemix online classes from IBM: [developerWorks Courses][developer_courses]
+
+["Bluemix Essentials"](https://developer.ibm.com/courses/all-courses/bluemix-essentials/) will give you a good introduction and take about 3 hours of your time.
 
 To really dive deep, you might want to take "Cloud Application Developer Certification Preparation", which should take you two or three days: [Cloud Application Developer Certification Preparation][certification_url]
 
