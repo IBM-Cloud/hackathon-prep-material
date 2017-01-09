@@ -49,6 +49,10 @@ Most hackathon participants want to take our IBM Watson services for a spin. Her
 * [Developing a Watson application in Node.js][watson_nodejs]
 * [Developing a Watson application in Java][watson_java]
 
+Or (if you prefer Python) take this free 2-hour class on codecademy.com
+
+- [Learn the Watson API: Personality Insights](https://www.ibm.com/us-en/marketplace/learning-lab/courses/learn-watson-api-personality-insights)
+
 #### Blockchain technology
 
 Blockchains are all the rage these days and many hackathon apps make use of them. [Here are some quick tutorials to get you started](https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_tutorials.html).
