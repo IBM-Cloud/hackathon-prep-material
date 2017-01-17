@@ -22,7 +22,9 @@ Start with these **introductory videos:**
 
 Here's a a link to get you started: [Creating Cloud Foundry apps][cf_basics]
 
-Have a look at this IBM Redbook as well, it gives a good overview of how to deploy your first app on Bluemix: [Essentials of Cloud Application Development on IBM Bluemix] [ibm-redbook]
+Using node.js? If so, here is a guided experience that will have your first node app running in a few minutes: [Get started with Node on Bluemix](https://console.ng.bluemix.net/get-started/)
+
+Have a look at this IBM Redbook as well, it gives a good overview of how to deploy your first app on Bluemix: [Essentials of Cloud Application Development on IBM Bluemix][ibm-redbook]
 
 If you prefer a more structured course, here is a link to a 4-hour online class to get you started with Bluemix: [Bluemix Essentials][bluemix-essentials]
 
