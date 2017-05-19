@@ -8,15 +8,7 @@ Make sure to [sign up here for Bluemix][bluemix_signup_url] **before the hackath
 
 ## Learn the Basics
 
-### Get an overview
-
-Start with these **introductory videos:**
-
-<a href="https://www.youtube.com/watch?v=Hcu664HbfS4"><img src="http://img.youtube.com/vi/Hcu664HbfS4/0.jpg" width="600">
-
-<a href="http://www.youtube.com/watch?v=GsGnyZedlFk"><img src="http://img.youtube.com/vi/GsGnyZedlFk/0.jpg" width="600">
-
-### Learn how to deploy an app based on Cloud Foundry
+### Understand how to deploy an app based on Cloud Foundry
 
 [Cloud Foundry][cloud_foundry] is an open-source platform-as-a-Service (PaaS) that allows you to concentrate on your code without worrying about the underlying infrastructure (like VMs or containers). That allows you to get your apps up and running quickly ... an ideal environment for a hackathon.
 
@@ -27,6 +19,12 @@ Using node.js? If so, here is a guided experience that will have your first node
 Have a look at this IBM Redbook as well, it gives a good overview of how to deploy your first app on Bluemix: [Essentials of Cloud Application Development on IBM Bluemix][ibm-redbook]
 
 If you prefer a more structured course, here is a link to a 4-hour online class to get you started with Bluemix: [Bluemix Essentials][bluemix-essentials]
+
+### Go serverless by using OpenWhisk
+
+[OpenWhisk](https://www.ibm.com/cloud-computing/bluemix/openwhisk) is an event-based driven environment that allows you to deploy serverless apps.
+
+Interested? [Take this online workshop](https://github.com/IBM-Bluemix/openwhisk-workshops/tree/master/bootcamp) to dive in.
 
 ## Drill down
 
@@ -119,11 +117,11 @@ Have a look at these videos to see what a hackathon feels like:
 
 <a href="http://www.youtube.com/watch?v=-Z0hg7ynHBM"><img src="http://img.youtube.com/vi/-Z0hg7ynHBM/0.jpg" width="600">
 
-####ANZ Data Science Hackathon
+#### ANZ Data Science Hackathon
 
 <a href="http://www.youtube.com/watch?v=TXxoZSoCTvQ"><img src="http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg" width="600">
 
-####Multiple Sclerosis Hackathon 2016
+#### Multiple Sclerosis Hackathon 2016
 
 <a href="http://www.youtube.com/watch?v=Ff8XYj-yo6o"><img src="http://img.youtube.com/vi/Ff8XYj-yo6o/0.jpg" width="600">
 
