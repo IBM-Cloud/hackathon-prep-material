@@ -93,33 +93,49 @@ And [here are almost 500 apps built on Bluemix from previous hackathons][devpost
 
 Have a look at these videos to see what a hackathon feels like:
 
-####ABN Amro #HackITon
+
+
+#### ABN Amro #HackITon
 
 <a href="http://www.youtube.com/watch?v=hvaezfmzMX8"><img src="http://img.youtube.com/vi/hvaezfmzMX8/0.jpg" width="600">
 
-####The Nordea Innovation Challenge
+
+
+#### The Nordea Innovation Challenge
 
 <a href="http://www.youtube.com/watch?v=kfkInW_GWjE"><img src="http://img.youtube.com/vi/kfkInW_GWjE/0.jpg" width="600">
 
-####Westpac & IBM Payments Hackathon
+
+
+#### Westpac & IBM Payments Hackathon
 
 <a href="https://vimeo.com/142343186"><img src="http://i.imgur.com/z8i9lKr.jpg" width="600">
 
-####SwissRe Hackathon NYC
+
+
+#### SwissRe Hackathon NYC
 
 <a href="http://www.youtube.com/watch?v=ssmNXScD8W4"><img src="http://img.youtube.com/vi/ssmNXScD8W4/0.jpg" width="600">
 
-####SwissRe Hackathon Bangalore
+
+
+#### SwissRe Hackathon Bangalore
 
 <a href="http://www.youtube.com/watch?v=XcvxYHiahaE"><img src="http://img.youtube.com/vi/XcvxYHiahaE/0.jpg" width="600">
 
-####Desjardins Healthy Living Hackathon
+
+
+#### Desjardins Healthy Living Hackathon
 
 <a href="http://www.youtube.com/watch?v=-Z0hg7ynHBM"><img src="http://img.youtube.com/vi/-Z0hg7ynHBM/0.jpg" width="600">
+
+
 
 #### ANZ Data Science Hackathon
 
 <a href="http://www.youtube.com/watch?v=TXxoZSoCTvQ"><img src="http://img.youtube.com/vi/TXxoZSoCTvQ/0.jpg" width="600">
+
+
 
 #### Multiple Sclerosis Hackathon 2016
 
