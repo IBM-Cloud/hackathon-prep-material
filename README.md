@@ -1,10 +1,10 @@
-# Getting ready for a Bluemix Hackathon?
+# Getting ready for an IBM Cloud Hackathon?
 
 Here is a list of material that we found particularly useful to get hackathon participants up and running quickly.
 
-## Sign up for Bluemix
+## Sign up for IBM Cloud
 
-Make sure to [sign up here for Bluemix][bluemix_signup_url] **before the hackathon**. It's free.
+Make sure to [sign up here for IBM Cloud][bluemix_signup_url] **before the hackathon**. It's free.
 
 ## Learn the Basics
 
@@ -14,17 +14,17 @@ Make sure to [sign up here for Bluemix][bluemix_signup_url] **before the hackath
 
 Here's a a link to get you started: [Creating Cloud Foundry apps][cf_basics]
 
-Using node.js? If so, here is a guided experience that will have your first node app running in a few minutes: [Get started with Node on Bluemix](https://console.ng.bluemix.net/get-started/)
+Using node.js? If so, here is a guided experience that will have your first node app running in a few minutes: [Get started with Node on IBM Cloud](https://console.bluemix.net/get-started/)
 
 Have a look at this IBM Redbook as well, it gives a good overview of how to deploy your first app on Bluemix: [Essentials of Cloud Application Development on IBM Bluemix][ibm-redbook]
 
 If you prefer a more structured course, here is a link to a 4-hour online class to get you started with Bluemix: [Bluemix Essentials][bluemix-essentials]
 
-### Go serverless by using OpenWhisk
+### Go serverless by using IBM Cloud Functions
 
-[OpenWhisk](https://www.ibm.com/cloud-computing/bluemix/openwhisk) is an event-based driven environment that allows you to deploy serverless apps.
+[IBM Cloud Functions](https://www.ibm.com/cloud/functions) is an event-based driven environment that allows you to deploy serverless apps.
 
-Interested? [Take this online workshop](https://github.com/IBM-Bluemix/openwhisk-workshops/tree/master/bootcamp) to dive in.
+Interested? [Take this online workshop](https://github.com/IBM-Cloud/openwhisk-workshops/tree/master/bootcamp) to dive in.
 
 ## Drill down
 
@@ -38,7 +38,7 @@ If you're working with others as part of a team, you'll probably want to use a c
 
 If the hackathon has an IoT theme to it, you'll want to learn [Node-RED][nodered_url]. It's an open-source "visual tool for wiring the Internet of Things" and a great way to quickly become productive in a very short period of time. It also requires very little coding knowledge.
 
-Node-RED can be deployed on Bluemix [with a single click.][iotp_boilerplate]
+Node-RED can be deployed on IBM Cloud [with a single click.][iotp_boilerplate]
 
 Next, [learn more about our IoT platform service][IoTP_url]. Once you understand how it works, go to [this link here to find step-by-step instructions to connect your physical devices][recipes_url] (like a [Rasperry Pi][raspberry_url], an [Arduino][arduino_url] or [TI Sensor Tag][sensortag_url]).
 
@@ -55,15 +55,15 @@ Or (if you prefer Python) take this free 2-hour class on codecademy.com
 
 #### Blockchain technology
 
-Blockchains are all the rage these days and many hackathon apps make use of them. [Here are some quick tutorials to get you started](https://console.ng.bluemix.net/docs/services/blockchain/ibmblockchain_tutorials.html).
+Blockchains are all the rage these days and many hackathon apps make use of them. [Here are some quick tutorials to get you started](https://console.bluemix.net/docs/services/blockchain/ibmblockchain_tutorials.html).
 
 If you want to dive deeper, [here is a full collection of developer resources to get started with the IBM Blockchain service](https://developer.ibm.com/blockchain/) 
 
 #### Online Courses
 
-Here is the link to all the Bluemix online classes from IBM: [developerWorks Courses][developer_courses]
+Here is the link to all the IBM Cloud online classes from IBM: [developerWorks Courses][developer_courses]
 
-["Bluemix Essentials"](https://developer.ibm.com/courses/all-courses/bluemix-essentials/) will give you a good introduction and take about 3 hours of your time.
+["IBM Cloud Essentials"](https://developer.ibm.com/courses/all/bluemix-essentials/) will give you a good introduction and take about 3 hours of your time.
 
 To really dive deep, you might want to take "Cloud Application Developer Certification Preparation", which should take you two or three days: [Cloud Application Developer Certification Preparation][certification_url]
 
@@ -77,7 +77,7 @@ And if you're looking for more, [here is a link to over 400 detailed step-by-ste
 
 ## Stuck? Need help?
 
-Make sure to [search the Bluemix docs][bluemixdocs_url] first.
+Make sure to [search the IBM Cloud docs][bluemixdocs_url] first.
 
 Still stuck? Head on over to stackoverflow.com and make sure to tag your question with "bluemix". [Here is a direct link.][stackoverflow_url]
 
@@ -85,9 +85,9 @@ Still stuck? Head on over to stackoverflow.com and make sure to tag your questio
 
 Looking for some inspiring examples? [Here is a gallery of 20 well documented apps built on Bluemix.][watson_starter-kits] All of them with a cognitive capability and based on the Watson technology. Each has a link to the running app and also links to the source on github.
 
-Head over to https://ibm-bluemix.github.io for more featured samples, most accompanied by an in-depth blog post.
+Head over to https://ibm-cloud.github.io for more featured samples, most accompanied by an in-depth blog post.
 
-And [here are almost 500 apps built on Bluemix from previous hackathons][devpost_url], many linking to the source code.
+And [here are almost 500 apps built on IBM Cloud from previous hackathons][devpost_url], many linking to the source code.
 
 ## Impressions from previous hackathons
 
